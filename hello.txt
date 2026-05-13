@@ -1,2 +1,2 @@
-Hello, GitHub!
-This is my second commit.
+Hello from feature branch!
+This change is not on main yet.
